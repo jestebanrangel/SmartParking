@@ -23,8 +23,3 @@ To ensure the highest standards of software engineering and data protection:
 * **Credential Masking:** All API keys and database credentials are managed via environment variables and are strictly excluded from the repository using `.gitignore`.
 * **Input Validation:** Robust server-side validation to prevent SQL injection and cross-site scripting (XSS).
 * **Transaction Integrity:** Leveraging Stripe's secure infrastructure to handle sensitive payment information.
-
-## Installation & Setup
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/smart-parking.git](https://github.com/your-username/smart-parking.git)
